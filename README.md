@@ -1,6 +1,6 @@
 # shepherd
 
-This script will send a request to the specified address to the specified address and receive the response.
+This script sends a request to the specified address once in a certain period of time and receives the response.
 
 ## Installation and setting
 
