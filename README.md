@@ -10,9 +10,9 @@ This script will send a request to the specified address to the specified addres
 
 ## Run
 Open PowerShell, come to the directory `cd` command with the` shepherd.ps1` file.
-    ```powershell
-    .\shepherd.ps1
-    ```
+```powershell
+.\shepherd.ps1
+```
 
 If you encounter an error about the permits, run the code below:
 ```powershell
